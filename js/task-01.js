@@ -1,4 +1,3 @@
-'use strict';
 // const categoriesListEl = document.querySelector('ul')
 // const categoriesItems = categoriesListEl.children;
 // console.log("Number of categories: " + categoriesItems.length)
